@@ -19,16 +19,15 @@ class Ani {
         this.color = color
     };
 
-    an(){
+    annn(){
         console.log(this.name);
-        console.log(this.age);
         console.log(this.color)
     }
 };
 
 
 let cat = new Ani("Cat", 3, "White");
-cat.an();
+cat.annn();
 
 
 console.log("")
