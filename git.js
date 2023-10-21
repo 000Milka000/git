@@ -12,6 +12,8 @@ for (let k in user){
 
 console.log("")
 
+<<<<<<< HEAD
+=======
 class Ani {
     constructor(name, age, color){
         this.name = name,
@@ -31,3 +33,4 @@ cat.annn();
 
 
 console.log("")
+>>>>>>> 0f39d9389f14907cf95458db6f0a5c93d1888451
