@@ -12,7 +12,7 @@ for (let k in user){
 
 console.log("")
 
-class Animal {
+class Ani {
     constructor(name, age, color){
         this.name = name,
         this.age = age,
@@ -27,7 +27,7 @@ class Animal {
 };
 
 
-let cat = new Animal("Cat", 3.5, "Black");
+let cat = new Ani("Cat", 3, "White");
 cat.an();
 
 
